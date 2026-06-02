@@ -1,13 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "CAMERAMANN",
+    "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "CsAnarquia.aternos.me",
-
+    "ip": "CsAnarquia.aternos.me:36919",
     "port": 36919,
     "version": "",
     "try-creative": false
